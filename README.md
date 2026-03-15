@@ -124,7 +124,7 @@ This tool is for **authorized security testing only**. Only use it against syste
 
 **Om Awachar** — Security Analyst  
 - HackerOne: Hall of Fame × 2 (Amazon, Urban Company, Jiocinema)  
-- Experience: Web, Mobile, API, Network Pentesting | RBI Compliance Audits  
+- Experience: Web, Mobile, API, Network Pentesting 
 - Focus: AI Security, LLM Red Teaming, Bug Bounty
 
 ---
