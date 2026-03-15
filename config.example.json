@@ -1,0 +1,6 @@
+{
+  "target": "https://api.openai.com/v1/chat/completions",
+  "api_key": "YOUR_API_KEY_HERE",
+  "model": "gpt-3.5-turbo",
+  "output": "reports/"
+}
